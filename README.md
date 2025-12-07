@@ -1,6 +1,8 @@
 # Nothing Chess Analysis
 
-A minimalist, mobile-first chess analysis tool featuring the distinctive "Nothing OS" design aesthetic. Powered by Stockfish 17 via Chess-API, it provides deep game analysis, move classification, and seamless Chess.com integration.
+![screenshot](/screenshot.png)
+
+A mobile-first chess analysis tool featuring the distinctive "Nothing OS" design aesthetic. Powered by Stockfish 17 via Chess-API, it provides deep game analysis, move classification, and seamless Chess.com integration.
 
 ## 🔴 Features
 
